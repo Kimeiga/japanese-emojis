@@ -1,5 +1,6 @@
 # kanji-emojis
-An explanation of the Japanese kanji emojis in Unicode
+## 🈁🈂️🈷️🈶🈯🉐🈹🈚🈲🉑🈸🈴🈳㊗️㊙️🈺🈵
+### An explanation of the Japanese kanji emojis in Unicode
 
 
 ##### Table of Contents  
