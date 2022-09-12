@@ -4,13 +4,13 @@
 
 
 ##### Table of Contents  
-[🈁 Japanese “Here” Button](#here)
+[🈁 Japanese “Here” Button](#-japanese-here-button)
 
-[🈂️ Japanese “Service Charge” Button](#service-charge)
+[🈂️ Japanese “Service Charge” Button](#%EF%B8%8F-japanese-service-charge-button)
 
-[🈷️ Japanese “Monthly Amount” Button](#monthly-amount)
+[🈷️ Japanese “Monthly Amount” Button](#%EF%B8%8F-japanese-monthly-amount-button)
 
-[🈶 Japanese “Not Free of Charge” Button](#not-free-of-charge)
+[🈶 Japanese “Not Free of Charge” Button](#-japanese-not-free-of-charge-button)
 
 [🈯 Japanese “Reserved” Button](#reserved)
 
@@ -28,6 +28,8 @@
 
 [🈴 Japanese “Passing Grade” Button](#passing-grade)
 
+合格 (ごうかく）has a positive connotation, as in A+. Like for if you pass the college entrance exam.
+
 [🈳 Japanese “Vacancy” Button](#vacancy)
 
 [㊗️ Japanese “Congratulations” Button](#congratulations)
@@ -41,29 +43,27 @@
 
 ## 🈁 Japanese “Here” Button
 
-Commit changes
-Commit summary
-Create README.md
-Optional extended description
-Add an optional extended description…
-
-hak7alp@gmail.com
-Choose which email address to associate with this commit
-
- Commit directly to the main branch.
- Create a new branch for this commit and start a pull request. Learn more about pull requests.
- 
-
 ## 🈂️ Japanese “Service Charge” Button
 
 ## 🈷️ Japanese “Monthly Amount” Button
 
 ## 🈶 Japanese “Not Free of Charge” Button
 
+## 🈯 Japanese “Reserved” Button
 
 ## 🉐 Japanese “Bargain” Button
 
 ## 🈹 Japanese “Discount” Button
+
+Japanese way of expressing percentage
+
+一割九分 = 19%
+
+一割引き = 10% discount
+
+割引き = discount (some percent off)
+
+割 = discount
 
 ## 🈚 Japanese “Free of Charge” Button
 
