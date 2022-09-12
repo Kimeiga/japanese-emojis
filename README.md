@@ -4,37 +4,23 @@
 
 
 ##### Table of Contents  
-[🈁 Japanese “Here” Button](#🈁 Japanese “Here” Button)<br>
-[🈂️ Japanese “Service Charge” Button](#🈂️ Japanese “Service Charge” Button)<br>
-[🈷️ Japanese “Monthly Amount” Button](#🈷️ Japanese “Monthly Amount” Button)<br>
-
-[🈶 Japanese “Not Free of Charge” Button](#-japanese-not-free-of-charge-button)
-
-[🈯 Japanese “Reserved” Button](#reserved)
-
-[🉐 Japanese “Bargain” Button](#bargain)
-
-[🈹 Japanese “Discount” Button](#discount)
-
-[🈚 Japanese “Free of Charge” Button](#free-of-charge)
-
-[🈲 Japanese “Prohibited” Button](#prohibited)
-
-[🉑 Japanese “Acceptable” Button](#acceptable)
-
-[🈸 Japanese “Application” Button](#application)
-
-[🈴 Japanese “Passing Grade” Button](#passing-grade)
-
-[🈳 Japanese “Vacancy” Button](#vacancy)
-
-[㊗️ Japanese “Congratulations” Button](#congratulations)
-
-[㊙️ Japanese “Secret” Button](#secret)
-
-[🈺 Japanese “Open for Business” Button](#open-for-business)
-
-[🈵 Japanese “No Vacancy” Button](#no-vacancy)
+[🈁 Japanese “Here” Button](#-japanese-here-button)<br>
+[🈂️ Japanese “Service Charge” Button](#%EF%B8%8F-japanese-service-charge-button)<br>
+[🈷️ Japanese “Monthly Amount” Button](#%EF%B8%8F-japanese-monthly-amount-button)<br>
+[🈶 Japanese “Not Free of Charge” Button](#-japanese-not-free-of-charge-button)<br>
+[🈯 Japanese “Reserved” Button](#-japanese-reserved-button)<br>
+[🉐 Japanese “Bargain” Button](#-japanese-bargain-button)<br>
+[🈹 Japanese “Discount” Button](#-japanese-discount-button)<br>
+[🈚 Japanese “Free of Charge” Button](#-japanese-free-of-charge-button)<br>
+[🈲 Japanese “Prohibited” Button](#-japanese-prohibited-button)<br>
+[🉑 Japanese “Acceptable” Button](#-japanese-acceptable-button)<br>
+[🈸 Japanese “Application” Button](#-japanese-application-button)<br>
+[🈴 Japanese “Passing Grade” Button](#-japanese-passing-grade-button)<br>
+[🈳 Japanese “Vacancy” Button](#-japanese-vacancy-button)<br>
+[㊗️ Japanese “Congratulations” Button](#%EF%B8%8F-japanese-congratulations-button)<br>
+[㊙️ Japanese “Secret” Button](#%EF%B8%8F-japanese-secret-button)<br>
+[🈺 Japanese “Open for Business” Button](#-japanese-open-for-business-button)<br>
+[🈵 Japanese “No Vacancy” Button](#-japanese-no-vacancy-button)<br>
 
 
 ## 🈁 Japanese “Here” Button
