@@ -4,9 +4,9 @@
 
 
 ##### Table of Contents  
-[🈁 Japanese “Here” Button](#🈁 Japanese “Here” Button)
-[🈂️ Japanese “Service Charge” Button](#🈂️ Japanese “Service Charge” Button)
-[🈷️ Japanese “Monthly Amount” Button](#🈷️ Japanese “Monthly Amount” Button)
+[🈁 Japanese “Here” Button](#🈁 Japanese “Here” Button)<br>
+[🈂️ Japanese “Service Charge” Button](#🈂️ Japanese “Service Charge” Button)<br>
+[🈷️ Japanese “Monthly Amount” Button](#🈷️ Japanese “Monthly Amount” Button)<br>
 
 [🈶 Japanese “Not Free of Charge” Button](#-japanese-not-free-of-charge-button)
 
