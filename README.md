@@ -76,3 +76,9 @@ It turned out it was just a Photoshop, so they actually did write 呪ってや�
 ## 🈺 Japanese “Open for Business” Button
 
 ## 🈵 Japanese “No Vacancy” Button
+
+## 👺
+
+![image](https://user-images.githubusercontent.com/20587215/189775518-944ef964-e247-455d-a031-d60876451610.png)
+
+There's this game called Aparenbo Tengu where the Tengu flies to the US to fight the Statue of Liberty because it was taken over and weaponized by aliens. When the tengu dies it says 無念（むねん）which means unfortunate.
