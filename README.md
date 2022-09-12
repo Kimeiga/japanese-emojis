@@ -26,8 +26,6 @@
 
 [🈴 Japanese “Passing Grade” Button](#passing-grade)
 
-合格 (ごうかく）has a positive connotation, as in A+. Like for if you pass the college entrance exam.
-
 [🈳 Japanese “Vacancy” Button](#vacancy)
 
 [㊗️ Japanese “Congratulations” Button](#congratulations)
@@ -72,6 +70,8 @@ Japanese way of expressing percentage
 ## 🈸 Japanese “Application” Button
 
 ## 🈴 Japanese “Passing Grade” Button
+
+合格 (ごうかく）has a positive connotation, as in A+. Like for if you pass the college entrance exam.
 
 ## 🈳 Japanese “Vacancy” Button
 
