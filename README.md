@@ -22,20 +22,21 @@
 [🈺 Japanese “Open for Business” Button](#-japanese-open-for-business-button)<br>
 [🈵 Japanese “No Vacancy” Button](#-japanese-no-vacancy-button)<br>
 
+## Kanji Emojis
 
-## 🈁 Japanese “Here” Button
+### 🈁 Japanese “Here” Button
 
-## 🈂️ Japanese “Service Charge” Button
+### 🈂️ Japanese “Service Charge” Button
 
-## 🈷️ Japanese “Monthly Amount” Button
+### 🈷️ Japanese “Monthly Amount” Button
 
-## 🈶 Japanese “Not Free of Charge” Button
+### 🈶 Japanese “Not Free of Charge” Button
 
-## 🈯 Japanese “Reserved” Button
+### 🈯 Japanese “Reserved” Button
 
-## 🉐 Japanese “Bargain” Button
+### 🉐 Japanese “Bargain” Button
 
-## 🈹 Japanese “Discount” Button
+### 🈹 Japanese “Discount” Button
 
 Japanese way of expressing percentage
 
@@ -47,38 +48,44 @@ Japanese way of expressing percentage
 
 割 = discount
 
-## 🈚 Japanese “Free of Charge” Button
+### 🈚 Japanese “Free of Charge” Button
 
-## 🈲 Japanese “Prohibited” Button
+### 🈲 Japanese “Prohibited” Button
 
-## 🉑 Japanese “Acceptable” Button
+### 🉑 Japanese “Acceptable” Button
 
-## 🈸 Japanese “Application” Button
+### 🈸 Japanese “Application” Button
 
-## 🈴 Japanese “Passing Grade” Button
+### 🈴 Japanese “Passing Grade” Button
 
 合格 (ごうかく）has a positive connotation, as in A+. Like for if you pass the college entrance exam.
 
-## 🈳 Japanese “Vacancy” Button
+### 🈳 Japanese “Vacancy” Button
 
-## ㊗️ Japanese “Congratulations” Button
+### ㊗️ Japanese “Congratulations” Button
 
 One of the earliest memes on Japanese internet was 樹海　祝 where someone mistook 祝 (good luck) for 呪 (curse).
 
 ![306044355_2199977116826281_4857201400416983818_n](https://user-images.githubusercontent.com/20587215/189508514-4b1a04a5-ea65-465c-9dd9-bc621f4e9a14.jpg)
+![image](https://user-images.githubusercontent.com/20587215/189775673-018e6762-f75f-4ba5-84fd-198ad92654db.png)
+
 
 They wanted to write 呪ってやる ("curse you") on a tree in a suicide forest (Aokigahara Jukai), but they sucked at kanji so instead they wrote 祝ってやる ("celebrate you"). 
 
 It turned out it was just a Photoshop, so they actually did write 呪ってやる, but it was a funny meme on Japanese internet back in 3rd grade.
 
-## ㊙️ Japanese “Secret” Button
+### ㊙️ Japanese “Secret” Button
 
-## 🈺 Japanese “Open for Business” Button
+### 🈺 Japanese “Open for Business” Button
 
-## 🈵 Japanese “No Vacancy” Button
+### 🈵 Japanese “No Vacancy” Button
 
-## 👺
+## Characters
+
+### 👺 Tengu
 
 ![image](https://user-images.githubusercontent.com/20587215/189775518-944ef964-e247-455d-a031-d60876451610.png)
 
 There's this game called Aparenbo Tengu where the Tengu flies to the US to fight the Statue of Liberty because it was taken over and weaponized by aliens. When the tengu dies it says 無念（むねん）which means unfortunate.
+
+
